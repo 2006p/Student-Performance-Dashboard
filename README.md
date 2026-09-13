@@ -26,3 +26,7 @@ To analyze student performance data and create an interactive dashboard that hel
 
 ### 📁 Project File
 The Excel workbook contains the student dataset, analysis, pivot tables, and interactive dashboard.
+
+## 📊 Dashboard Preview
+
+![Student Performance Dashboard](Dashboard.png)
